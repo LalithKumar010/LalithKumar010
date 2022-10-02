@@ -5,7 +5,7 @@ I'm  Lalith Kumar from India, and I'm interested towards Cybersecurity , Ethical
 
 ## My Certifications
 </br>
-eCPPT - eLearnSecurity Certified Professional Penetration Tester </br>
+eCPPT - eLearnSecurity Certified Professional Penetration Tester 
 </br>
 eWPT - eLearnSecurity Web Application Penetration Tester
 </br>
