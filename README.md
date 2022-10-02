@@ -15,4 +15,4 @@ PNPT - Practical Network Penetration Tester
 </br>
 eJPT - eLearnSecurity Certified Junior Penetration Tester
 
-![Profile Generator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
