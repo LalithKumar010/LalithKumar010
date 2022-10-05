@@ -1,7 +1,7 @@
 ### Hi There 👋
 
 
-I'm  Lalith Kumar from India, and I'm interested towards Cybersecurity , Ethical Hacking , CTFs, RedTeaming. 
+I'm  Lalith Kumar from India, and I'm interested towards Cybersecurity , Ethical Hacking , CTFs, RedTeaming, Penetration Testing. 
 
 ## My Certifications
 </br>
@@ -16,3 +16,13 @@ PNPT - Practical Network Penetration Tester
 eJPT - eLearnSecurity Certified Junior Penetration Tester
 
 
+If you want to follow up with me or know more about me please check my social medial links below :-)
+
+## My Social Media Links:
+
+Instagram: https://instagram.com/LexiLominite
+Twitter: https://twitter.com/LexiLominite
+LinkedIn: https://linkedin.com/in/LexiLominite
+Discord: https://lalithkumar010.com/discord.html
+Website: https://lalithkumar010.com/
+Github: https://github.com/LalithKumar010
