@@ -1,7 +1,7 @@
 ### Hi There 👋
 
 
-I'm  Lalith Kumar from India, and I'm interested towards Cybersecurity , Ethical Hacking , CTFs, RedTeaming, Penetration Testing. 
+I'm  Lalith Kumar from India, and I'm interested towards Cybersecurity , Ethical Hacking , CTFs, Red Teaming, Penetration Testing. 
 
 ## My Certifications
 </br>
