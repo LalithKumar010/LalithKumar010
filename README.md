@@ -20,9 +20,9 @@ If you want to follow up with me or know more about me please check my social me
 
 ## My Social Media Links:
 
-Instagram: https://instagram.com/LexiLominite
-Twitter: https://twitter.com/LexiLominite
-LinkedIn: https://linkedin.com/in/LexiLominite
-Discord: https://lalithkumar010.com/discord.html
-Website: https://lalithkumar010.com/
-Github: https://github.com/LalithKumar010
+Instagram: https://instagram.com/LexiLominite </br>
+Twitter: https://twitter.com/LexiLominite  </br>
+LinkedIn: https://linkedin.com/in/LexiLominite  </br>
+Discord: https://lalithkumar010.com/discord.html  </br>
+Website: https://lalithkumar010.com/  </br>
+Github: https://github.com/LalithKumar010 </br>
