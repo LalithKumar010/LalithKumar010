@@ -26,3 +26,10 @@ LinkedIn: https://linkedin.com/in/LexiLominite  </br>
 Discord: https://lalithkumar010.com/discord.html  </br>
 Website: https://lalithkumar010.com/  </br>
 Github: https://github.com/LalithKumar010 </br>
+
+
+
+# Finally see the  surprise
+
+![RickrollNeverGonnaGiveYouUpGIF](https://user-images.githubusercontent.com/90268212/194609149-28a98855-24c0-4c2f-969e-df0dbac56798.gif)
+
