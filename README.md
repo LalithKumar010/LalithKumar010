@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LalithKumar010](https://github.com/LalithKumar010)
 
-- 📝 I regularly write articles on [https://site.lalithkumar010.com](https://site.lalithkumar010.com)
+- 📝 I write articles on [https://site.lalithkumar010.com](https://lalithkumar010.com)
 
 - 💬 Ask me about **Active Directory**
 
