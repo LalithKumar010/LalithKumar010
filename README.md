@@ -2,7 +2,9 @@
 
 * I'm Lalith Kumar, an **extremely motivated and hardworking individual** with a passion for cybersecurity. I possess strong technical and analytical skills essential for performing penetration testing and vulnerability assessments.
 
-* Currently working as a "Penetration Tester" for [Security Knock](https://securityknock.com)
+* Currently Working as a "Security Analyst - 2" for [Ernst & Young]
+
+* Previously worked as  a "Penetration Tester" for [Security Knock](https://securityknock.com)
 
 * Previously worked as a "Jr Penetration Tester Intern" at [VIEH Group](https://viehgroup.com) and "Penetration Tester" at [Bug Claim](https://bugclaim.com)
 
